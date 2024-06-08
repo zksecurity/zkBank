@@ -1,6 +1,6 @@
 module zksecurity/ctf/gkr
 
-go 1.21.7
+go 1.21
 
 require (
 	github.com/consensys/gnark v0.9.2-0.20240124123439-9627e98d814f
